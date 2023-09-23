@@ -1,11 +1,11 @@
 
 /* Your CSS Code here. */
-.main{
+.heading{
 	font-size:20px;
 	color:white;
 	text-decoration:underline;
 }
-#heading{
+.main{
 	width:200px;
 	background-color:purple;
 	border-left:5px solid green;
