@@ -1,13 +1,13 @@
 
 /* Your CSS Code here. */
 .main{
-	font-size:24px;
+	font-size:16px;
 	color:white;
 	text-decoration:underline;
 }
 #heading{
 	width:200px;
-	background-color:rgb(128,0,128);
+	background-color:rgba(0,0,0,0);
 	border-left:5px solid green;
 	padding:10px;
 }
